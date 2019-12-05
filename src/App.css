@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  margin-top: 271PX;
+  margin-right: 283PX;  
+}
+.smartcont{
+  margin: 100PX;
+  margin-left: 100px;
+  width: 550px;
+  height:360px;
+
+ }
+ .conte{
+   padding-bottom:40px ;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
